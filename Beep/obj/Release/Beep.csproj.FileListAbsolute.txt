@@ -1,0 +1,6 @@
+C:\Users\snelso4x\Desktop\Documents\Programs\Beep\Beep\Beep\bin\Release\Beep.exe.config
+C:\Users\snelso4x\Desktop\Documents\Programs\Beep\Beep\Beep\bin\Release\Beep.exe
+C:\Users\snelso4x\Desktop\Documents\Programs\Beep\Beep\Beep\bin\Release\Beep.pdb
+C:\Users\snelso4x\Desktop\Documents\Programs\Beep\Beep\Beep\obj\Release\Beep.csproj.CoreCompileInputs.cache
+C:\Users\snelso4x\Desktop\Documents\Programs\Beep\Beep\Beep\obj\Release\Beep.exe
+C:\Users\snelso4x\Desktop\Documents\Programs\Beep\Beep\Beep\obj\Release\Beep.pdb
